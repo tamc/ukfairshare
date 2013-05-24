@@ -1,0 +1,6 @@
+public/UkFairShareEmissions
+*.swp
+
+*.o
+
+*.dylib

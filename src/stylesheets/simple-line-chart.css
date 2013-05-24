@@ -1,0 +1,63 @@
+body {
+}
+
+.axis path, .axis line {
+  fill: none;
+  stroke: #000;
+  stroke-width: 1px;
+  shape-rendering: crispEdges;
+}
+
+.axislabel {
+  text-anchor: end;
+}
+
+.line, line {
+  fill: none;
+  stroke: black;
+  stroke-width: 3px;
+}
+
+.area {
+  fill: steelblue;
+  fill-opacity: 0.1;
+}
+
+.area0 {
+  fill: grey;
+  fill-opacity: 1;
+}
+
+.area1 { 
+  fill: green;
+  fill-opacity: 1;
+}
+
+.area2 { 
+  fill: lightgreen;
+  fill-opacity: 1;
+}
+
+.area3 { 
+  fill: yellow;
+  fill-opacity: 1;
+}
+
+.area4 { 
+  fill: orange;
+  fill-opacity: 1;
+}
+
+.area5 { 
+  fill: red;
+  fill-opacity: 1;
+}
+
+.area6 { 
+  fill: darkred;
+  fill-opacity: 1;
+}
+
+#refs {
+  clear:both;
+}
